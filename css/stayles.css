@@ -64,6 +64,7 @@ body{
 .site-header-logo:active{
     opacity: 0.6;
 }
+
 .currency-rates {
     display: flex;
     align-items: center;
@@ -72,9 +73,11 @@ body{
     list-style: none;
     margin-right: auto;
 }
+
 .currency-rates-item:not(:last-child) {
     margin-right: 25px;
 }
+
 .currency-rates-type {
     color: #2959CE;
 }
@@ -83,6 +86,7 @@ body{
 .global-search-form {
     margin-right: 25px;
 }
+
 .global-search-form-input {
     background-color: #fff;
     border-radius: 60px;
@@ -95,6 +99,7 @@ body{
     padding-left: 40px;
     padding-right: 20px;
 }
+
 .lang-togger {
     display: flex;
     border-radius: 39px;
@@ -102,6 +107,7 @@ body{
     padding: 3px;
     margin-right: 25px;
 }
+
 .lang-togger-link {
     width: 30px;
     height: 30px;
@@ -244,6 +250,7 @@ body{
     margin-bottom: 10px;
     margin-top: 0;
 }
+
 .article-card-link {
     display: inline-block;
     color: #000;
@@ -263,6 +270,7 @@ body{
     margin-top: 0;
     margin-bottom: 15px;
 }
+
 .article-card-img {
     display: block;
     margin-bottom: 15px;
@@ -272,6 +280,7 @@ body{
     width: 360px;
     height: 165px;
 }
+
 .article-card-footer {
     display: flex;
     align-items: center;
@@ -282,6 +291,7 @@ body{
     margin-right: 10px;
     border-radius: 5px;
 }
+
 .article-card-source-time {
     font-size: 12px;
     line-height: normal;
@@ -299,6 +309,7 @@ body{
     margin: 60px 75px;
     background-color: #ffd7ba;
 }
+
 .notification-cta-text {
     font-weight: 500;
     font-size: 20px;
